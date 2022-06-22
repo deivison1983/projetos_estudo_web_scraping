@@ -1,4 +1,4 @@
-# Projeto de estudo tripadvisor
+# Projeto de estudo Tripadvisor
 
 <img src="imagens/trip_advisor.png">
 
