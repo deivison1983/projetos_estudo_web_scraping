@@ -41,7 +41,7 @@ Este é um projeto de estudo e não possui nenhuma finalidade comercial, sendo d
 
 ### 3.1 Produto proposto
 
-Construir um Web Crawler Python capaz de navegar nas páginas dos comentários e coletar os dados na plataforma do Tripadvisor. Após coleta automatizada será gerado um arquivo "informacoes.csv" com todas as informações extraídas. Além disso, foi elaborado um notebook mostrando todo o processo de construção do web crawler.
+Construir um Web Crawler Python capaz de navegar nas páginas dos comentários e coletar os dados na plataforma do Tripadvisor. Após a coleta automatizada será gerado um arquivo "informacoes.csv" com todas as informações extraídas. Além disso, foi elaborado um notebook mostrando todo o processo de construção do web crawler.
 
 ### 3.2 Ferramentas utilizadas
 
