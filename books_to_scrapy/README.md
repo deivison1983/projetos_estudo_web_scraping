@@ -16,7 +16,7 @@ O projeto está estruturado nos seguintes passos:
 
 ## 1 Questão de negócio
 
-A página "Books to Scrape" simula um e-commerce de livros e apresenta 1000 produtos catalogados em 50 categorias distintas. O site apresentar "todos os produtos" simultaneamente, sendo 50 páginas com 20 livros em cada. Além disso, há a opção de apresentação apenas dos títulos de cada categoria. Observa-se que para cada livro há várias informações disponíveis tais como, título completo, imagem da capa, descrição do produto através da sinopse, número de estrelas da avaliação, preços em Euros com e sem as taxas, valor da taxa, disponibilidade de livros em estoque, tipo de produto e código UPC.
+A página "Books to Scrape" simula um e-commerce de livros e apresenta 1000 produtos catalogados em 50 categorias distintas. O site apresenta "todos os produtos" simultaneamente, sendo 50 páginas com 20 livros em cada. Além disso, há a opção de apresentação apenas dos títulos de cada categoria. Observa-se que para cada livro há várias informações disponíveis tais como, título completo, imagem da capa, descrição do produto através da sinopse, número de estrelas da avaliação, preços em Euros com e sem as taxas, valor da taxa, disponibilidade de livros em estoque, tipo de produto e código UPC.
 
 Dentro do contexto da ciência de dados a página oferece uma excelente opção para treinamento das técnicas de webscraping voltados para sites da modalidade e-commerce. O projeto de estudo busca coletar dados de todos os livros que se encontram localizados no endereço: "https://books.toscrape.com/" .
 
@@ -24,7 +24,7 @@ Dentro do contexto da ciência de dados a página oferece uma excelente opção 
 As principais informações a serem extraídas do site:
 
 * Nome do livro
-* Preço em libras
+* Preço em Libras
 * Avaliação dos consumidores
 * Disponibilidade em estoque
 * Categoria
