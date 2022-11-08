@@ -4,7 +4,7 @@
 
 It is worth mentioning that one of the most important skills within the data science universe consists of web data collection, which is famously known as web scraping. It is noteworthy that the notes consist of study projects prepared with the tools of the python ecosystem, where I collect information in an automated way from websites, e-commerces and travel platforms.
 
-**Projetos**
+**Projects**
 * Books to Scrapy [aqui.](https://github.com/deivison1983/projetos_estudo_web_scraping/tree/main/books_to_scrapy)
 * Tripadvisor [aqui.](https://github.com/deivison1983/projetos_estudo_web_scraping/tree/main/tripadvisor)
 
