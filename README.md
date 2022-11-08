@@ -1,6 +1,6 @@
 ## Projetos de estudo sobre Web Scraping
 
-# <p>🇺🇸 [English Version](https://github.com/deivison1983/projetos_estudo_web_scraping/blob/main/english_version/readme_eng.md)</p>
+### <p>🇺🇸 [English Version](https://github.com/deivison1983/projetos_estudo_web_scraping/blob/main/english_version/readme_eng.md)</p>
 
 Convém mencionar que umas das habilidades mais importantes dentro do universo da ciência de dados consiste na coleta de dados web, que é notoriamente conhecida como web scraping (raspagem web). Ressalta-se que as notas consistem em projetos de estudo elaborados com as ferramentas do ecossistema do python, onde coleto informações de forma automatizada de websites, e-commerces e plataformas de viagens.
 
